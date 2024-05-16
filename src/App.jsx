@@ -196,7 +196,7 @@ export default function Component() {
             <img
               alt="Weather Icon"
               className="w-16 h-16 mr-4"
-              src="src/assets/cloud.svg"
+              src="cloud.svg"
             />
             <div>
               <div className="text-4xl font-bold">
